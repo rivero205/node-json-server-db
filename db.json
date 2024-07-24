@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Maicol",
+      "apelido": "Vivero",
+      "Materias": [
+        {
+          "nombre": "Sexología"
+        },
+        {
+          "nombre": "Sexología 2"
+        },
+        {
+          "nombre": "Sexología 3"
+        }
+      ],
+      "id": "a4d9"
+    },
+    {
+      "id": "2efe",
+      "nombre": "Camila",
+      "apelido": "Dev",
+      "Materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Danna",
+      "apellidos": "Nieves",
+      "promedio": 4.8,
+      "id": "bcb0"
+    },
+    {
+      "nombre": "Omar",
+      "apellidos": "Berrio",
+      "promedio": 4.8,
+      "id": "9788"
+    },
+    {
+      "nombre": "Andres",
+      "apellidos": "Rios",
+      "promedio": 4.8,
+      "id": "d489"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJs desde Cero",
+      "duracion": 7,
+      "dificultad": "intermedio",
+      "id": "9f0d"
+    },
+    {
+      "nombre": "Sexo desde Cero",
+      "duracion": 1,
+      "dificultad": "intermedio",
+      "id": "344d"
+    },
+    {
+      "nombre": "U desde Cero",
+      "duracion": 10,
+      "dificultad": "intermedio",
+      "id": "3a9c"
+    }
+  ]
+}
